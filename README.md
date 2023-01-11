@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @hafizfarhad
 - 👀 I’m interested in History and Technology
-- 🌱 I’m currently learning C language (it's my first language)
+- 🌱 I’m currently learning C++ language (it's my second language)
+- 🌱 I've good grip on C
 - 📫 You can always reach me out at hafizfarhad.com/contact
 
 <!---
