@@ -4,7 +4,7 @@
 
 ## 👋 Hi, there!
 
-I'm Hafiz Farhad - a cyber security undergraduate student, and security researcher based in Karachi, Pakistan.
+I'm Hafiz Farhad. I live in PK, where I do security.
 
 <br>
 
@@ -20,10 +20,10 @@ I'm Hafiz Farhad - a cyber security undergraduate student, and security research
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Web Application Attacks, Types and Prevention Measures](https://hafizfarhad.com/blog/web-application-attacks)
+<!-- - [Understanding Web Application Attacks, Types and Prevention Measures](https://hafizfarhad.com/blog/web-application-attacks)
 - [What is Packet Sniffing? Definition, Types, and Prevention Measures](https://hafizfarhad.com/blogp/packet-sniffing)
 - [What is a Denial-of-Service (DoS) Attack? Definition, Types, and Prevention Measures](https://hafizfarhad.com/blog/denial-of-service)
-- [What is Session Hijacking? Definition, Threats, and Prevention Measures](https://hafizfarhad.com/blogp/packet-sniffing)
+- [What is Session Hijacking? Definition, Threats, and Prevention Measures](https://hafizfarhad.com/blogp/packet-sniffing) -->
 <!-- BLOG-POST-LIST:END -->
 
 <br>
