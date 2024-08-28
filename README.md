@@ -35,6 +35,11 @@ I'm Hafiz Farhad. I live in PK, where I do security.
 <a href="https://github.com/hafizfarhad/odin-recipes">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hafizfarhad&repo=odin-recipes&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+
+<a href="https://github.com/hafizfarhad/html-css-landing-page">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hafizfarhad&repo=ohtml-css-landing-page&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <br>
 
 ## 💼 Skills
@@ -56,12 +61,6 @@ I'm Hafiz Farhad. I live in PK, where I do security.
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=4AB197)
 <br>
 
-<details>
-<summary>More Skills</summary>
-
-<br>
-
-
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
 <br>
@@ -69,7 +68,6 @@ I'm Hafiz Farhad. I live in PK, where I do security.
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Vercel-informational?style=flat&logo=vercel&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 
 </details>
 
@@ -80,9 +78,3 @@ I'm Hafiz Farhad. I live in PK, where I do security.
 > Everything that is made beautiful and fair and lovely is made for the eye of one who sees.
 >
 > <p>- Rumi</p>
-
-<br>
-
-> ### Want to know how I made this README?
->
-> Check out my [tutorial](https://hafizfarhad.com/blog/github-profile-readme/)!
