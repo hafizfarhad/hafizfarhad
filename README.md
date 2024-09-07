@@ -15,15 +15,13 @@ I'm Hafiz Farhad. I live in PK, where I do security.
 
 <br>
 
-## 📝 Latest Blog Posts
+## 📝 Latest Blog Posts (and Reports)
 
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- - [Understanding Web Application Attacks, Types and Prevention Measures](https://hafizfarhad.com/blog/web-application-attacks)
-- [What is Packet Sniffing? Definition, Types, and Prevention Measures](https://hafizfarhad.com/blogp/packet-sniffing)
-- [What is a Denial-of-Service (DoS) Attack? Definition, Types, and Prevention Measures](https://hafizfarhad.com/blog/denial-of-service)
-- [What is Session Hijacking? Definition, Threats, and Prevention Measures](https://hafizfarhad.com/blogp/packet-sniffing) -->
+- [Technical Analysis of WannaCry/WanaCrypt0r? An Easy-to-Understand Report on the Ransomware](https://hafizfarhad.com/blog/technical-analysis-of-wannacry-ransomware)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>
