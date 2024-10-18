@@ -30,8 +30,8 @@ I'm Hafiz Farhad. I live in Pakistan, where I do security.
 
 <br>
 
-<a href="https://github.com/hafizfarhad/h4ck3r">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hafizfarhad&repo=h4ck3r&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/hafizfarhad/ctf">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hafizfarhad&repo=ctf&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <br>
