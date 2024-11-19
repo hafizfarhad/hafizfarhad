@@ -20,7 +20,7 @@ I'm Hafiz Farhad. I live in Pakistan, where I do security.
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-- [Technical Analysis of WannaCry - An Easy-to-Understand Report on the Ransomware](https://hafizfarhad.com/posts/technical-analysis-of-wannacry-ransomware)
+- [Technical Analysis of WannaCry Ransomware](https://hafizfarhad.com/posts/technical-analysis-of-wannacry-ransomware)
 
 <!-- BLOG-POST-LIST:END -->
 
@@ -33,7 +33,9 @@ I'm Hafiz Farhad. I live in Pakistan, where I do security.
 <a href="https://github.com/hafizfarhad/ctf">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hafizfarhad&repo=ctf&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
+<a href="https://github.com/hafizfarhad/xss">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=hafizfarhad&repo=xss&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 <br>
 
 ## 💼 Skills
