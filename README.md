@@ -11,7 +11,7 @@ I'm Hafiz Farhad. I live in Pakistan, where I do security.
 ## 🔮 Quick Hits
 
 - 📺 I'm currently a full-time student at [FAST National University](https://nu.edu.pk).
-- 🧙‍♂️ Want to know more about me? Check out [here](https://www.hafizfarhad.com/about).
+- 🧙‍♂️ Want to know more about me? Check out [here](https://hafizfarhad.com/about/).
 
 <br>
 
@@ -21,8 +21,6 @@ I'm Hafiz Farhad. I live in Pakistan, where I do security.
 
 <!-- BLOG-POST-LIST:START -->
 - [Technical Analysis of WannaCry Ransomware](https://hafizfarhad.com/posts/wannacry-ransomware/)
-- [Ignite National Technology Fund CTF 2024 Writeup](https://hafizfarhad.com/posts/ignite-techfund-ctf-2024/)
-- [OverTheWire Krypton Wargame Writeup](https://hafizfarhad.com/posts/krypton-wargame/)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
